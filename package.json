@@ -1,0 +1,23 @@
+{
+  "name": "super7tech-front-end",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@splidejs/vue-splide": "^0.6.12",
+    "bootstrap": "^5.3.2",
+    "bootstrap-vue": "^2.23.1",
+    "vue": "^3.3.11",
+    "vue-axios": "^3.5.2",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.2",
+    "vite": "^5.0.8"
+  }
+}
